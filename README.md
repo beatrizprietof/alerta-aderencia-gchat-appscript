@@ -1,0 +1,1 @@
+# alerta-aderencia-gchat-appscript
