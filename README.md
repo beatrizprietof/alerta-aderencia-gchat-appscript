@@ -1,4 +1,4 @@
-# Alerta Automático de Aderência a Treinamentos (Google Chat + Webhook)
+# Alerta Automático de Aderência a Treinamentos
 
 > Solução de ChatOps desenvolvida em Google Apps Script para monitoramento contínuo e notificação automática do percentual de aderência a treinamentos e quizes operacionais diretamente no Google Chat.
 
