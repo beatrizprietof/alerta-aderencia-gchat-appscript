@@ -23,7 +23,7 @@
 ## Demonstração Visual
 
 ### Card de Alerta Publicado na Espaço "Central de Aderência"
-![Demonstração do Alerta no Google Chat](![E-mail de Relatório](chatl.png.png))
+![Demonstração do Alerta no Google Chat](![E-mail de Relatório](chat.png))
 
 ---
 
